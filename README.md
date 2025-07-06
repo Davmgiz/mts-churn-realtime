@@ -1,4 +1,3 @@
-```markdown
 # churn-rt-eda-ml
 
 ## О проекте
